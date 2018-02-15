@@ -1,2 +1,1 @@
-# guns
-programacion 
+algoritmo
